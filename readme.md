@@ -10,6 +10,7 @@ Jednoduchá hra v Pythonu vám umožní hodit šest kostek a získat body na zá
 4. Postupka v podobě všech čísel od 1 do 6 vám zajistí vysoký počet bodů.
 5. Hra končí, když dosáhnete stanoveného bodového limitu.
 
+![Bodování](https://github.com/Ihura42/Kostky/blob/master/Kostky-pravidla.png)
 
 ## Jak hrát:
 - Spusťte program a zadejte počet bodů potřebných k dosažení cíle.
